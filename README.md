@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @web3ros
-- 👀 I’m interested in blockchain development ...
-- 🌱 I’m currently learning about smart contracts...
-- 💞️ I’m looking to collaborate on designing and building in the multiverse ...
-
-<!---
-web3ros/web3ros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 
